@@ -1,1 +1,7 @@
-src/social.db
+# Ignore DB files
+*.db
+
+# Ignore idea changes
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
