@@ -1,4 +1,4 @@
-Flask==1.0.2
+Flask==2.3.2
 peewee==3.9.5
 SQLite3Database==0.2.0
 Flask-Login==0.4.1
